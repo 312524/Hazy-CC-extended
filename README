@@ -15,7 +15,7 @@ and the train-test is still following ShanghaiTechRGBD dataset.
 
 If you find Hazy-ShanghaiTechRGBD and Hazy-JHU datasets useful, please consider citing our work:
 
-```bibtex
+```
 @article{Kong2023HazyCC-extended,
   title={Haze-prior guided frequency-embedded attention learning for single-stage hazy-weather crowd counting},
   journal={Pattern Recognition},
